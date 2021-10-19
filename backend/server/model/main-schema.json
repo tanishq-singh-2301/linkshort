@@ -1,0 +1,28 @@
+{
+    "url_shortner": {
+        "informations": [
+            {
+                "_id": 1,
+                "current_urls": 4
+            }
+        ],
+        "urls": [
+            {
+                "_id": 1,
+                "url": "https://www.google.com"
+            },
+            {
+                "_id": 2,
+                "url": "https://www.instagram.com"
+            },
+            {
+                "_id": 3,
+                "url": "https://shorturl.vercel.app"
+            },
+            {
+                "_id": 4,
+                "url": "https://www.facebook.com"
+            }
+        ]
+    }
+}
